@@ -18,7 +18,7 @@
         android:value="去除b站开屏广告" />
     <meta-data
         android:name="xposedminversion"
-        android:value="100" />
+        android:value="82" />
     <meta-data
         android:name="xposedscope"
         android:resource="@array/xposedscope" />

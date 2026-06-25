@@ -11,8 +11,8 @@ android {
         applicationId "me.bingyue.fuckbiliads"
         minSdk 27
         targetSdk 34
-        versionCode 8
-        versionName "4.2"
+        versionCode 9
+        versionName "4.3"
 
     }
 
